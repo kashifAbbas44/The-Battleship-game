@@ -1,6 +1,6 @@
 # The Battleship Game
 
-A two-player, turn-based Battleship game played directly in the console[cite: 4].
+A two-player, turn-based Battleship game played directly in the console.
 
 ## How to Play
 
@@ -19,9 +19,9 @@ A two-player, turn-based Battleship game played directly in the console[cite: 4]
 ## Tech Stack
 
 - Language: C++[cite: 4]
-- Interface: Command Line Interface (CLI)[cite: 4]
+- Interface: Command Line Interface (CLI)
 
 ## Files
 
-- `Battleship.cpp`: The source code containing game logic[cite: 4].
-- `Battleship.exe`: Pre-compiled file to run the game directly on Windows[cite: 4].
+- `Battleship.cpp`: The source code containing game logic
+- `Battleship.exe`: Pre-compiled file to run the game directly on Windows.
